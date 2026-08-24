@@ -46,21 +46,7 @@ AI Agent 技能路由包：47 条规则把任务分流进 48 个领域技能包�
 
 </details>
 
----
-
-```text
-leechuihui@root:~$ cat mission.txt
-只打授权目标。结论必须带证据链 —— Evidence → Finding → Path。
-leechuihui@root:~$ █
-```
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Leechuihui&show_icons=true&hide_border=true&bg_color=050508&title_color=FCE029&icon_color=00ff41&text_color=c8c8c8" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leechuihui&layout=compact&hide_border=true&bg_color=050508&title_color=FCE029&text_color=c8c8c8&langs_count=8" height="160"/>
 </div>
-
-<p align="center">
-<a href="https://blog.bgcbuilding.com">blog.bgcbuilding.com</a> · <a href="https://www.youtube.com/@archphilippe">youtube/@archphilippe</a>
-</p>
-
-<p align="center"><sub>-- EOF --</sub></p>
