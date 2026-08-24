@@ -4,4 +4,4 @@
 
 <br/>
 
-安全方向在读，做逆向与授权渗透测试。习惯把重复的分析动作沉淀成工具和流程——最近的一件，是给 AI 客户端装上「先路由方法论、再驱动工具」的纪律。
+Security-track CS student — reverse engineering and authorized penetration testing. I keep turning repeated analysis into tooling and process; the latest piece gives AI coding agents a discipline: route to methodology first, drive local tools second, and never act without authorization.
