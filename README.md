@@ -2,7 +2,7 @@
 
 **Architect / CyberSecurity** — building tools that earn their stars by being genuinely useful.
 
-[![vpn · FreeHarbor](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=vpn&theme=dark)](https://github.com/Leechuihui/vpn)
+[![vpn · FreeHarbor](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=vpn&theme=dark)](https://github.com/Leechuihui/FreeHarbor)
 [![HashWizard](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=HashWizard&theme=dark)](https://github.com/Leechuihui/HashWizard)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Leechuihui&show_icons=true&theme=dark&hide_border=true)
@@ -12,7 +12,7 @@
 
 | Project | What it does |
 |---|---|
-| 🌊 **[FreeHarbor](https://github.com/Leechuihui/vpn)** | Free VPN node subscriptions, auto-updated every 3h, verified with real egress checks. Live site + bilingual guides. |
+| 🌊 **[FreeHarbor](https://github.com/Leechuihui/FreeHarbor)** | Free VPN node subscriptions, auto-updated every 3h, verified with real egress checks. Live site + bilingual guides. |
 | 🔓 **[HashWizard](https://github.com/Leechuihui/HashWizard)** | Interactive password hash cracking tool in pure Python |
 | 🕵️ **[ONSINT](https://github.com/Leechuihui/ONSINT)** | Open-source network intelligence toolkit |
 | 🛰 **[umbra](https://github.com/Leechuihui/umbra)** | Post-exploitation framework (bilingual) |
@@ -25,7 +25,7 @@
 ## 📫 Reach me
 
 - Issues / PRs on any repo above
-- Site: [blog.bgcbuilding.com)
+- Site: [leechuihui.github.io/vpn](https://leechuihui.github.io/FreeHarbor/)
 
 ---
 
