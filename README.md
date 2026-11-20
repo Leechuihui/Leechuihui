@@ -1,8 +1,8 @@
 # 🌊 Leechuihui
 
-**Architect / CyberSecurity** — building tools that earn their stars by being genuinely useful.
+**Architect / CyberSecurity** — building tools that earn their stars by being genuinely useful. 🌐 [blog.bgcbuilding.com](https://blog.bgcbuilding.com)
 
-[![🌊 FreeHarbor](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=vpn&theme=dark)](https://github.com/Leechuihui/FreeHarbor)
+[![🌊 FreeHarbor](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=FreeHarbor&theme=dark)](https://github.com/Leechuihui/FreeHarbor)
 [![HashWizard](https://github-readme-stats.vercel.app/api/pin/?username=Leechuihui&repo=HashWizard&theme=dark)](https://github.com/Leechuihui/HashWizard)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Leechuihui&show_icons=true&theme=dark&hide_border=true)
@@ -24,8 +24,8 @@
 
 ## 📫 Reach me
 
+- Blog: [blog.bgcbuilding.com](https://blog.bgcbuilding.com)
 - Issues / PRs on any repo above
-- Site: [leechuihui.github.io/vpn](https://leechuihui.github.io/FreeHarbor/)
 
 ---
 
