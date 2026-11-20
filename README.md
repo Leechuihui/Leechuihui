@@ -25,7 +25,7 @@
 ## 📫 Reach me
 
 - Issues / PRs on any repo above
-- Site: [leechuihui.github.io/vpn](https://leechuihui.github.io/vpn/)
+- Site: [blog.bgcbuilding.com)
 
 ---
 
