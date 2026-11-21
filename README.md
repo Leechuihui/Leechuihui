@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # 🌊 Leechuihui
 
 **Architect / CyberSecurity** — building tools that earn their stars by being genuinely useful. 🌐 [blog.bgcbuilding.com](https://blog.bgcbuilding.com)
